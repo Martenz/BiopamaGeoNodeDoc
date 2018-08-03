@@ -9,7 +9,7 @@ BIOPAMA GeoNode documentation
 Contents:
 
 .. toctree::
-   :caption: Talking Maps
+   :caption: BIOPAMA GeoNode Doc
    :maxdepth: 2
 
    virtualbox
